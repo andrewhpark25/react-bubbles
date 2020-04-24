@@ -1,0 +1,24 @@
+1. Explain what a token is used for.
+
+Tokens, issued by the server, are strings of cryptic text, which can be stored on the client-side using local storage or session storage. 
+Server reads the token and make decisions for data transfer based on the client’s permission.
+
+
+2. What steps can you take in your web apps to keep your data secure? 
+
+Give an authorization token to an api so that app does not return data without proper token authorization.
+
+3. Describe how web servers work.
+
+Computers connect to the internet via the world wide web, locate a specific server computer through a URL and domain name, and retrieve information or resources from that server.
+
+4. Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
+
+Create - Post
+
+Read - Get
+
+Update - Put
+
+Delete - Delete
+
